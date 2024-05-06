@@ -1,0 +1,207 @@
+<DatasmithUnrealScene>
+	<Version>1.0.3</Version>
+	<SDKVersion>4.24E0</SDKVersion>
+	<Host>Blender</Host>
+	<Application Vendor="Blender Foundation" ProductName="Blender" ProductVersion="3.2.2"/>
+	<User ID="lolo" OS="Windows 10"/>
+	<ActorMesh name="Cube" layer="Collection">
+		<mesh name="Cube"/>
+		<Transform tx="0.000000" ty="0.000000" tz="0.000000" qw="0.000000" qx="-0.000000" qy="-0.000000" qz="1.000000" sx="-18.000000" sy="-20.000000" sz="-0.144309"/>
+	</ActorMesh>
+	<Light name="Light" layer="Collection" type="PointLight" enabled="1">
+		<SourceSize value="10.000000"/>
+		<Intensity value="1000.000000"/>
+		<AttenuationRadius value="3162.277660"/>
+		<IntensityUnits value="Lumens"/>
+		<Color usetemp="0" temperature="6500.0" R="1.000000" G="1.000000" B="1.000000"/>
+		<Transform tx="-86.960983" ty="997.519104" tz="2060.889404" qw="0.144014" qx="-0.442790" qy="0.040919" qz="0.884037" sx="1.000000" sy="1.000000" sz="1.000000"/>
+	</Light>
+	<Camera name="Camera" layer="Collection">
+		<DepthOfField enabled="0"/>
+		<SensorWidth value="36.000000"/>
+		<SensorAspectRatio value="1.777778"/>
+		<FocusDistance value="1000.000000"/>
+		<FStop value="2.800000"/>
+		<FocalLength value="50.000000"/>
+		<Post/>
+		<Transform tx="735.889160" ty="692.579102" tz="495.830933" qw="0.359222" qx="0.212557" qy="0.084389" qz="-0.904797" sx="1.000000" sy="1.000000" sz="1.000000"/>
+	</Camera>
+	<Light name="Sun" layer="Collection" type="DirectionalLight" enabled="1">
+		<SourceSize value="12.500000"/>
+		<Intensity value="1.000000"/>
+		<AttenuationRadius value="100.000000"/>
+		<IntensityUnits value="Lumens"/>
+		<Color usetemp="0" temperature="6500.0" R="1.000000" G="1.000000" B="1.000000"/>
+		<Transform tx="6946.000000" ty="0.000000" tz="0.000000" qw="0.500000" qx="0.500000" qy="0.500000" qz="-0.500000" sx="1.000000" sy="1.000000" sz="1.000000"/>
+	</Light>
+	<ActorMesh name="Cylinder_001" layer="Collection">
+		<mesh name="Cylinder_001"/>
+		<Transform tx="2157.291992" ty="-204.064041" tz="-199.801712" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="0.562888" sy="0.562888" sz="0.562888"/>
+	</ActorMesh>
+	<ActorMesh name="Cylinder" layer="Collection">
+		<mesh name="Cylinder"/>
+		<Transform tx="2157.291992" ty="-204.064041" tz="-199.801712" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="0.562888" sy="0.562888" sz="0.562888"/>
+	</ActorMesh>
+	<ActorMesh name="Cylinder_002" layer="Collection">
+		<mesh name="Cylinder_002"/>
+		<Transform tx="-1805.310303" ty="-204.064041" tz="-199.801712" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="0.562888" sy="0.562888" sz="0.562888"/>
+	</ActorMesh>
+	<ActorMesh name="Cylinder_003" layer="Collection">
+		<mesh name="Cylinder_003"/>
+		<Transform tx="-1805.310303" ty="-204.064041" tz="-199.801712" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="0.562888" sy="0.562888" sz="0.562888"/>
+	</ActorMesh>
+	<ActorMesh name="Cylinder_004" layer="Collection">
+		<mesh name="Cylinder_004"/>
+		<Transform tx="-1805.310303" ty="4374.524902" tz="-199.801712" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="0.562888" sy="0.562888" sz="0.562888"/>
+	</ActorMesh>
+	<ActorMesh name="Cylinder_005" layer="Collection">
+		<mesh name="Cylinder_005"/>
+		<Transform tx="-1805.310303" ty="4374.524902" tz="-199.801712" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="0.562888" sy="0.562888" sz="0.562888"/>
+	</ActorMesh>
+	<ActorMesh name="Cylinder_006" layer="Collection">
+		<mesh name="Cylinder_006"/>
+		<Transform tx="2184.867676" ty="4374.524902" tz="-199.801712" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="0.562888" sy="0.562888" sz="0.562888"/>
+	</ActorMesh>
+	<ActorMesh name="Cylinder_007" layer="Collection">
+		<mesh name="Cylinder_007"/>
+		<Transform tx="2184.867676" ty="4374.524902" tz="-199.801712" qw="1.000000" qx="0.000000" qy="0.000000" qz="0.000000" sx="0.562888" sy="0.562888" sz="0.562888"/>
+	</ActorMesh>
+	<StaticMesh label="Cube" name="Cube">
+		<Material id="0" name="Material"/>
+		<file path="escenario3_Assets/Cube.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="e1239c2659c160752e00e7044e1c370f"/>
+	</StaticMesh>
+	<StaticMesh label="Cylinder_001" name="Cylinder_001">
+		<Material id="0" name="Material_008"/>
+		<file path="escenario3_Assets/Cylinder_001.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="17efc610943af8e353527d69fe45d2ed"/>
+	</StaticMesh>
+	<StaticMesh label="Cylinder" name="Cylinder">
+		<Material id="0" name="Material_006"/>
+		<file path="escenario3_Assets/Cylinder.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="5a94ea748e6e4c3ef22c4d9be365271f"/>
+	</StaticMesh>
+	<StaticMesh label="Cylinder_002" name="Cylinder_002">
+		<Material id="0" name="Material_001"/>
+		<file path="escenario3_Assets/Cylinder_002.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="a94beb2da1922a69100b3d73b933267d"/>
+	</StaticMesh>
+	<StaticMesh label="Cylinder_003" name="Cylinder_003">
+		<Material id="0" name="Material_002"/>
+		<file path="escenario3_Assets/Cylinder_003.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="7b16ba62ebe0ccf60c97930b7a6ded69"/>
+	</StaticMesh>
+	<StaticMesh label="Cylinder_004" name="Cylinder_004">
+		<Material id="0" name="Material_001"/>
+		<file path="escenario3_Assets/Cylinder_004.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="d565daa404b40a5c097ec337063a2c3d"/>
+	</StaticMesh>
+	<StaticMesh label="Cylinder_005" name="Cylinder_005">
+		<Material id="0" name="Material_002"/>
+		<file path="escenario3_Assets/Cylinder_005.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="2922014e82a7c5705d2788545624e1e9"/>
+	</StaticMesh>
+	<StaticMesh label="Cylinder_006" name="Cylinder_006">
+		<Material id="0" name="Material_001"/>
+		<file path="escenario3_Assets/Cylinder_006.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="ecd99262544b1e89e000dd99a4fefecc"/>
+	</StaticMesh>
+	<StaticMesh label="Cylinder_007" name="Cylinder_007">
+		<Material id="0" name="Material_002"/>
+		<file path="escenario3_Assets/Cylinder_007.udsmesh"/>
+		<LightmapUV value="-1"/>
+		<Hash value="53bb66b4cf9a97d74295fca7666f71e5"/>
+	</StaticMesh>
+	<UEPbrMaterial name="Material">
+		<Expressions>
+			<Texture PathName="Metal_jpg"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.500000"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Material_008">
+		<Expressions>
+			<Color constant="(R=0.800000,G=0.800000,B=0.800000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.500000"/>
+			<Scalar constant="0.500000"/>
+			<Color constant="(R=1.000000,G=1.000000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="24.100006"/>
+			<Multiply>
+				<0 expression="4" OutputIndex="0"/>
+				<1 expression="5" OutputIndex="0"/>
+			</Multiply>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<EmissiveColor expression="6"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Material_006">
+		<Expressions>
+			<Texture PathName="metal_verde_webp"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.500000"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Material_001">
+		<Expressions>
+			<Color constant="(R=0.800000,G=0.800000,B=0.800000,A=1.000000)"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.500000"/>
+			<Scalar constant="0.500000"/>
+			<Color constant="(R=1.000000,G=1.000000,B=1.000000,A=1.000000)"/>
+			<Scalar constant="24.100006"/>
+			<Multiply>
+				<0 expression="4" OutputIndex="0"/>
+				<1 expression="5" OutputIndex="0"/>
+			</Multiply>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+		<EmissiveColor expression="6"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Material_002">
+		<Expressions>
+			<Texture PathName="metal_verde_webp_001"/>
+			<Scalar constant="0.000000"/>
+			<Scalar constant="0.500000"/>
+			<Scalar constant="0.500000"/>
+		</Expressions>
+		<BaseColor expression="0" OutputIndex="0"/>
+		<Metallic expression="1" OutputIndex="0"/>
+		<Roughness expression="2" OutputIndex="0"/>
+		<Specular expression="3" OutputIndex="0"/>
+	</UEPbrMaterial>
+	<Texture name="Metal_jpg" file="escenario3_Assets\Metal_jpg.jpg" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3">
+		<Hash value="077f7ed12e45a3ff496cc1a39880e4df"/>
+	</Texture>
+	<Texture name="metal_verde_webp" file="escenario3_Assets\metal_verde_webp.png" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3">
+		<Hash value="3c87d6c5e3bb7eab438b0f336af0e750"/>
+	</Texture>
+	<Texture name="metal_verde_webp_001" file="escenario3_Assets\metal_verde_webp_001.png" rgbcurve="0.0" srgb="1" texturemode="0" texturefilter="3">
+		<Hash value="3c87d6c5e3bb7eab438b0f336af0e750"/>
+	</Texture>
+	<Export Duration="0.21799999999348074"/>
+</DatasmithUnrealScene>
